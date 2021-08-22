@@ -31,10 +31,10 @@ const menu = document.createElement('nav');
     const contact = document.createElement('li');
     list.classList.add('menuBar');
 
-    about.textContent = 'about';
-    explore.textContent = 'explore';
-    news.textContent = 'news';
-    contact.textContent = 'contact';
+    about.textContent = 'About';
+    explore.textContent = 'Explore';
+    news.textContent = 'News';
+    contact.textContent = 'Contact';
     
 
     list.appendChild(logo);
