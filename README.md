@@ -1,6 +1,6 @@
 # Project Name
 > This is a clone of a one page site that is an underwater site.  
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+<!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [html file](index.html)
@@ -31,7 +31,7 @@ List the ready features here:
 
 
 ## Screenshots
-![](images/underwater.jpeg)
+ ![](images/Shot1.png) ![](images/Shot2.png) ![](images/Shot3.png) ![](images/Shot4.png) ![](images/Shot5.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -53,7 +53,6 @@ Include the correct export and import of module to entry/ external file
 ## Acknowledgements
 Give credit here.
 - This project was inspired by Girlcode 
-- This project was based on [this tutorial](https://www.example.com).
 - Many thanks to our Girlcode instructor
 
 
