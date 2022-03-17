@@ -31,7 +31,7 @@ List the ready features here:
 
 
 ## Screenshots
-![](imgages/underwater.jpeg)
+![](images/underwater.jpeg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
