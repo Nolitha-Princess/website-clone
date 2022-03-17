@@ -39,7 +39,7 @@ List the ready features here:
 The website where this site is cloned from is originally used to show the underwater experience that is given to clients
 - This clone is a one page site to copy how the site looks.
 
-`write-your-code-here`
+
 
 
 ## Project Status
