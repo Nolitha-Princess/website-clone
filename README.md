@@ -31,7 +31,7 @@ List the ready features here:
 
 
 ## Screenshots
- ![](images/shot1.png) ![](images/shot2.png) ![](images/shot3.png) ![](images/shot4.png) ![](images/shot5.png)
+ ![](images/underwater.jpeg) ![](images/shot1.png) ![](images/shot2.png) ![](images/shot3.png) ![](images/shot4.png) ![](images/shot5.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
